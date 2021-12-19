@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **projects that create a better society using AI**
 
-- 📝 I regularly write articles on [my blog](https://xylambda.github.io/blog/) and [Quantdare](https://quantdare.com/author/aperez/)
+- 📝 I regularly write articles on [my blog](https://xylambda.github.io/blog/) and on [Quantdare](https://quantdare.com/author/aperez/)
 
-- 📫 Reach me! **alejandroperezsanjuan@gmail.com**
+- 📫 Reach me [here](alejandroperezsanjuan@gmail.com)!
 
 - 😄 Pronouns: he / him
 
