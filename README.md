@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist</h3>
 
 <p align="center">
-    <a href="mailto:alejandroperezsanjuan@gmail.com">Link text<img align="center" src="https://unpkg.com/simple-icons@latest/icons/gmail.svg" alt="aperez" height="30" width="40" /></a>
+    <a href="mailto:alejandroperezsanjuan@gmail.com"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/gmail.svg" alt="aperez" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/alejandro-pérez-sanjuán/" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" alt="aperez" height="30" width="40" /></a>
     <a href="https://medium.com/@alejandrops" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/medium.svg" alt="alejandrops" height="30" width="40" /></a>
 </p>
