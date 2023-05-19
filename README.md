@@ -15,7 +15,7 @@
 
 - 😄 Pronouns: he / him / his
 
-- 📄 Looking for my CV? [Here you have it](https://xylambda.github.io/blog/assets/resume.pdf)
+- 📄 Looking for my CV? [Here you have it](https://github.com/Xylambda/blog/blob/master/assets/resume.pdf)
 
 -----
 
