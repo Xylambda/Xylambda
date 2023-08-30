@@ -15,8 +15,6 @@
 
 - 😄 Pronouns: he / him / his
 
-- 📄 Looking for my CV? [Here you have it](https://github.com/Xylambda/blog/blob/master/assets/resume.pdf)
-
 -----
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,6 +35,3 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
------
-
-![My Github stats](https://github-readme-stats.vercel.app/api?username=Xylambda&show_icons=true&hide_border=true)
