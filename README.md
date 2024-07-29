@@ -7,11 +7,9 @@
     <a href="https://medium.com/@alejandrops" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/medium.svg" alt="alejandrops" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working at [ETS Factory](https://www.etsfactory.com/)
-
 - 👯 I’m looking to collaborate on **projects that create a better society using AI**
 
-- 📝 I regularly write articles on [my blog](https://xylambda.github.io/blog/) and on [Quantdare](https://quantdare.com/author/aperez/)
+- 📝 I regularly write articles on [my blog]([https://xylambda.github.io/blog/](https://xylambda.github.io/qblog/)) and also wrote some articles for [Quantdare](https://quantdare.com/author/aperez/)
 
 - 😄 Pronouns: he / him / his
 
